@@ -13,3 +13,27 @@ __pycache__/
 
 # Ignore temp files
 *.tmp
+
+# Java build
+target/
+*.class
+*.jar
+
+# Maven
+.mvn/
+maven-status/
+
+# Test reports
+surefire-reports/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
