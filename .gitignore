@@ -1,4 +1,15 @@
+# Ignore data files
 *.xlsx
-*.xls
+*.csv
+
+# Ignore reports
+*.html
+
+# Ignore checkpoints
 .ipynb_checkpoints/
-Mall_Customers.csv
+
+# Ignore python cache
+__pycache__/
+
+# Ignore temp files
+*.tmp
